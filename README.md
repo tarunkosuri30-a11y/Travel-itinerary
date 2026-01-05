@@ -138,10 +138,6 @@ Travel-Itinerary-Planner/
 K. Tarun
 📧 Email: tarunkosuri30@gmail.com
 
-🔗 LinkedIn: linkedin.com/in/tarun-kosuri-4a91bb332
-
-💻 GitHub: github.com/yourgithub
-
 📜 License
 
 This project is licensed under the MIT License — feel free to use, modify, and distribute it with attribution.
